@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="The same plan at three install dates: with five weeks to go you get build, warm-up, teaser and sale; with two weeks, build and teaser; installed mid-sale, a two-day build and the peak">
+  <defs><clipPath id="r3"><rect width="1200" height="400" rx="28"/></clipPath></defs>
+  <g clip-path="url(#r3)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif">
+    <rect width="1200" height="400" fill="#030303"/>
+    <text x="56" y="62" font-size="15" font-weight="600" letter-spacing="3" fill="#E63946">IT STARTS THE DAY YOU INSTALL IT</text>
+    <text x="56" y="100" font-size="30" font-weight="700" fill="#FFFFFF" letter-spacing="-.5">Less time left? It cuts warm-up first, never the safety checks.</text>
+
+    <g font-size="16" font-weight="600" fill="#FFFFFF">
+      <!-- row 1: 5 weeks out -->
+      <text x="56" y="165" fill="#A5A5B2">5 weeks out</text>
+      <g transform="translate(220 140)">
+        <rect x="0" width="150" height="40" rx="8" fill="#1A1A22"/><text x="75" y="26" text-anchor="middle">Build · 7d</text>
+        <rect x="156" width="330" height="40" rx="8" fill="#22222C"/><text x="321" y="26" text-anchor="middle">Warm-up · 22d · grow the list, test ads</text>
+        <rect x="492" width="150" height="40" rx="8" fill="#2C2C38"/><text x="567" y="26" text-anchor="middle">Teaser · 7d</text>
+        <rect x="648" width="70" height="40" rx="8" fill="#7A1F27"/><text x="683" y="26" text-anchor="middle">Sale</text>
+        <rect x="724" width="116" height="40" rx="8" fill="#E63946"/><text x="782" y="26" text-anchor="middle">BF peak</text>
+        <rect x="846" width="78" height="40" rx="8" fill="#FFFFFF"/><text x="885" y="26" text-anchor="middle" fill="#030303">Cyber M</text>
+      </g>
+      <!-- row 2: 2 weeks out -->
+      <text x="56" y="235" fill="#A5A5B2">2 weeks out</text>
+      <g transform="translate(220 210)">
+        <rect x="336" width="150" height="40" rx="8" fill="#1A1A22"/><text x="411" y="26" text-anchor="middle">Build · 7d</text>
+        <rect x="492" width="150" height="40" rx="8" fill="#2C2C38"/><text x="567" y="26" text-anchor="middle">Teaser · 7d</text>
+        <rect x="648" width="70" height="40" rx="8" fill="#7A1F27"/><text x="683" y="26" text-anchor="middle">Sale</text>
+        <rect x="724" width="116" height="40" rx="8" fill="#E63946"/><text x="782" y="26" text-anchor="middle">BF peak</text>
+        <rect x="846" width="78" height="40" rx="8" fill="#FFFFFF"/><text x="885" y="26" text-anchor="middle" fill="#030303">Cyber M</text>
+      </g>
+      <!-- row 3: mid-sale -->
+      <text x="56" y="305" fill="#A5A5B2">Sale week</text>
+      <g transform="translate(220 280)">
+        <rect x="648" width="70" height="40" rx="8" fill="#1A1A22"/><text x="683" y="26" text-anchor="middle">Build</text>
+        <rect x="724" width="116" height="40" rx="8" fill="#E63946"/><text x="782" y="26" text-anchor="middle">BF peak</text>
+        <rect x="846" width="78" height="40" rx="8" fill="#FFFFFF"/><text x="885" y="26" text-anchor="middle" fill="#030303">Cyber M</text>
+      </g>
+    </g>
+    <path d="M220 344H1144" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="220" y="372" font-size="14" fill="#646473">Example shown for a 1-week sale. 2-week and 1-month sales open earlier and always end Cyber Monday night.</text>
+    <rect x=".5" y=".5" width="1199" height="399" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+  </g>
+</svg>

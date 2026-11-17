@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+bfcm.config.json
+.DS_Store
