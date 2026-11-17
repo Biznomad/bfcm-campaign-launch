@@ -179,7 +179,7 @@ Phases
 Money left per order before ads
   Single           price $28.00  (30% off)  left $15.89  max cost per new customer $15.89  break-even return 1.76x
   Bundle of 3      price $66.00  (33% off)  left $40.79  max cost per new customer $40.79  break-even return 1.62x
-  Subscription     price $59.00  left $33.99  max cost per new customer $80.60  (pays back by order 2; each renewal leaves $46.61)
+  Subscription     price $62.00  left $36.90  max cost per new customer $89.34  (pays back by order 2; each renewal leaves $52.44)
 
 Calendar
   Mon 2027-10-18  [build]
